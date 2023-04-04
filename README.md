@@ -1,6 +1,6 @@
 # Minecraft生活鯖 - [お嬢鯖](https://ojousaba.gamewiki.jp/)リソースパック
 
-* [アセットリスト](https://genpyon.github.io/resourcepack-ojousaba/)
+* [アセットリスト](https://rupia.github.io/ojousaba-resourcepack/)
 
 ## 更新方法
 
