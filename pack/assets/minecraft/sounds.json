@@ -44,10 +44,34 @@
     ],
     "replace": true
   },
-  "school.chime": {
+  "pyonphone.cookie.click": {
     "sounds": [
       {
-        "name": "school/chime",
+        "name": "pyonphone/cookie_click1",
+        "volume": 0.5,
+        "weight": 5
+      },
+      {
+        "name": "pyonphone/cookie_click2",
+        "volume": 0.5,
+        "weight": 1
+      }
+    ],
+    "replace": true
+  },
+  "school.chime.harf": {
+    "sounds": [
+      {
+        "name": "school/chime_harf",
+        "volume": 0.5
+      }
+    ],
+    "replace": true
+  },
+  "school.chime.full": {
+    "sounds": [
+      {
+        "name": "school/chime_full",
         "volume": 0.5
       }
     ],
