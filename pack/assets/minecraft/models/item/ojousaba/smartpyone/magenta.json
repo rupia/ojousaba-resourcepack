@@ -1,0 +1,8 @@
+{
+    "parent": "item/ojousaba/smartpyone/base",
+	"textures": {
+		"1": "item/ojousaba/smartpyone/magenta",
+		"2": "item/ojousaba/smartpyone/nyuugakushiki2",
+		"particle": "item/ojousaba/smartpyone/magenta"
+	}
+}
