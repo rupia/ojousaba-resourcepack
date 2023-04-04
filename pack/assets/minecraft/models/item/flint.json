@@ -4,16 +4,20 @@
     "layer0": "minecraft:item/flint"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 10}, "model": "item/ojousaba/smartpyone/nyuugakushiki", "__name": "スマートぴょん","__comment": "令和５年度聖兎学園祭入学式","__creator":"alumina6767"},
-    {"predicate": {"custom_model_data": 11}, "model": "item/ojousaba/smartpyone/yellow", "__name": "スマートぴょん","__comment": "黄色","__creator":"alumina6767"},
-    {"predicate": {"custom_model_data": 12}, "model": "item/ojousaba/smartpyone/white", "__name": "スマートぴょん","__comment": "白色","__creator":"alumina6767"},
-    {"predicate": {"custom_model_data": 13}, "model": "item/ojousaba/smartpyone/black", "__name": "スマートぴょん","__comment": "黒","__creator":"alumina6767"},
-    {"predicate": {"custom_model_data": 14}, "model": "item/ojousaba/smartpyone/cyan", "__name": "スマートぴょん","__comment": "シアン","__creator":"alumina6767"},
-    {"predicate": {"custom_model_data": 15}, "model": "item/ojousaba/smartpyone/magenta", "__name": "スマートぴょん","__comment": "マゼンダ","__creator":"alumina6767"},
-    {"predicate": {"custom_model_data": 16}, "model": "item/ojousaba/yani", "__name": "ヤニ","__comment": "ヤニ","__creator":"genpyon"},
-
     {"predicate": {"custom_model_data": 1000}, "model": "item/ojousaba/nyuugakushiki2023/signboard_with_mamdad", "__name": "入学式看板withママパパ","__comment": "令和５年度聖兎学園祭入学式","__creator":"kashinomi0384"},
     {"predicate": {"custom_model_data": 1001}, "model": "item/ojousaba/nyuugakushiki2023/signboard", "__name": "入学式看板","__comment": "令和５年度聖兎学園祭入学式","__creator":"kashinomi0384"},
-    {"predicate": {"custom_model_data": 1002}, "model": "item/ojousaba/nyuugakushiki2023/corsage", "__name": "入学式コサージュ","__comment": "令和５年度聖兎学園祭入学式","__creator":"alumina6767"}
+
+    {"predicate": {"custom_model_data": 2000}, "model": "item/ojousaba/smartpyone/nyuugakushiki", "__name": "スマートぴょん","__comment": "令和５年度聖兎学園祭入学式特典","__creator":"alumina6767"},
+    {"predicate": {"custom_model_data": 2001}, "model": "item/ojousaba/smartpyone/yellow", "__name": "スマートぴょん","__comment": "黄色","__creator":"alumina6767"},
+    {"predicate": {"custom_model_data": 2002}, "model": "item/ojousaba/smartpyone/white", "__name": "スマートぴょん","__comment": "白色","__creator":"alumina6767"},
+    {"predicate": {"custom_model_data": 2003}, "model": "item/ojousaba/smartpyone/black", "__name": "スマートぴょん","__comment": "黒","__creator":"alumina6767"},
+    {"predicate": {"custom_model_data": 2004}, "model": "item/ojousaba/smartpyone/cyan", "__name": "スマートぴょん","__comment": "シアン","__creator":"alumina6767"},
+    {"predicate": {"custom_model_data": 2005}, "model": "item/ojousaba/smartpyone/magenta", "__name": "スマートぴょん","__comment": "マゼンダ","__creator":"alumina6767"},
+    {"predicate": {"custom_model_data": 2006}, "model": "item/ojousaba/yani", "__name": "ヤニ","__comment": "ヤニ","__creator":"genpyon"},
+    {"predicate": {"custom_model_data": 2007}, "model": "item/ojousaba/sniper", "__name": "Sniper","__comment": "スナイパーライフル","__creator":"ManaitaLN"},
+    {"predicate": {"custom_model_data": 2008}, "model": "item/ojousaba/black_box", "__name": "ブラックボックス","__comment": "","__creator":"genpyon"},
+
+    {"predicate": {"custom_model_data": 4000}, "model": "item/ojousaba/nyuugakushiki2023/corsage", "__name": "入学式コサージュ","__comment": "令和５年度聖兎学園祭入学式","__creator":"alumina6767"},
+    {"predicate": {"custom_model_data": 4001}, "model": "item/ojousaba/shoshinshamark", "__name": "初心者マーク","__comment": "新規ユーザー応援キャンペーン第２弾","__creator":"yueni01"}
   ]
 }

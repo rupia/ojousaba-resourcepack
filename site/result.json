@@ -2,83 +2,6 @@
     "textures": [
         {
             "predicate": {
-                "custom_model_data": 10
-            },
-            "model": "nyuugakushiki",
-            "item": "flint",
-            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/nyuugakushiki.mng",
-            "comment": "令和５年度聖兎学園祭入学式",
-            "name": "スマートぴょん",
-            "creator": "alumina6767"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 11
-            },
-            "model": "yellow",
-            "item": "flint",
-            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/yellow.mng",
-            "comment": "黄色",
-            "name": "スマートぴょん",
-            "creator": "alumina6767"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 12
-            },
-            "model": "white",
-            "item": "flint",
-            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/white.mng",
-            "comment": "白色",
-            "name": "スマートぴょん",
-            "creator": "alumina6767"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 13
-            },
-            "model": "black",
-            "item": "flint",
-            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/black.mng",
-            "comment": "黒",
-            "name": "スマートぴょん",
-            "creator": "alumina6767"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 14
-            },
-            "model": "cyan",
-            "item": "flint",
-            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/cyan.mng",
-            "comment": "シアン",
-            "name": "スマートぴょん",
-            "creator": "alumina6767"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 15
-            },
-            "model": "magenta",
-            "item": "flint",
-            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/magenta.mng",
-            "comment": "マゼンダ",
-            "name": "スマートぴょん",
-            "creator": "alumina6767"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "yani",
-            "item": "flint",
-            "image": "pack/assets/minecraft/models/item/ojousaba/yani.mng",
-            "comment": "ヤニ",
-            "name": "ヤニ",
-            "creator": "genpyon"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 1000
             },
             "model": "signboard_with_mamdad",
@@ -101,7 +24,106 @@
         },
         {
             "predicate": {
-                "custom_model_data": 1002
+                "custom_model_data": 2000
+            },
+            "model": "nyuugakushiki",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/nyuugakushiki.mng",
+            "comment": "令和５年度聖兎学園祭入学式特典",
+            "name": "スマートぴょん",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2001
+            },
+            "model": "yellow",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/yellow.mng",
+            "comment": "黄色",
+            "name": "スマートぴょん",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2002
+            },
+            "model": "white",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/white.mng",
+            "comment": "白色",
+            "name": "スマートぴょん",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2003
+            },
+            "model": "black",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/black.mng",
+            "comment": "黒",
+            "name": "スマートぴょん",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2004
+            },
+            "model": "cyan",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/cyan.mng",
+            "comment": "シアン",
+            "name": "スマートぴょん",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2005
+            },
+            "model": "magenta",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/magenta.mng",
+            "comment": "マゼンダ",
+            "name": "スマートぴょん",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2006
+            },
+            "model": "yani",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/yani.mng",
+            "comment": "ヤニ",
+            "name": "ヤニ",
+            "creator": "genpyon"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2007
+            },
+            "model": "sniper",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/sniper.mng",
+            "comment": "スナイパーライフル",
+            "name": "Sniper",
+            "creator": "ManaitaLN"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2008
+            },
+            "model": "black_box",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/black_box.mng",
+            "comment": "",
+            "name": "ブラックボックス",
+            "creator": "genpyon"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4000
             },
             "model": "corsage",
             "item": "flint",
@@ -109,6 +131,17 @@
             "comment": "令和５年度聖兎学園祭入学式",
             "name": "入学式コサージュ",
             "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4001
+            },
+            "model": "shoshinshamark",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/shoshinshamark.mng",
+            "comment": "新規ユーザー応援キャンペーン第２弾",
+            "name": "初心者マーク",
+            "creator": "yueni01"
         },
         {
             "predicate": {
