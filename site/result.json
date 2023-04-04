@@ -1,0 +1,125 @@
+{
+    "textures": [
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "nyuugakushiki",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/nyuugakushiki.mng",
+            "comment": "令和５年度聖兎学園祭入学式",
+            "name": "スマートぴょん",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "yellow",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/yellow.mng",
+            "comment": "黄色",
+            "name": "スマートぴょん",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "white",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/white.mng",
+            "comment": "白色",
+            "name": "スマートぴょん",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "black",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/black.mng",
+            "comment": "黒",
+            "name": "スマートぴょん",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "cyan",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/cyan.mng",
+            "comment": "シアン",
+            "name": "スマートぴょん",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "magenta",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/magenta.mng",
+            "comment": "マゼンダ",
+            "name": "スマートぴょん",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "yani",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/yani.mng",
+            "comment": "ヤニ",
+            "name": "ヤニ",
+            "creator": "genpyon"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1000
+            },
+            "model": "signboard_with_mamdad",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/nyuugakushiki2023/signboard_with_mamdad.mng",
+            "comment": "令和５年度聖兎学園祭入学式",
+            "name": "入学式看板withママパパ",
+            "creator": "kashinomi0384"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1001
+            },
+            "model": "signboard",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/nyuugakushiki2023/signboard.mng",
+            "comment": "令和５年度聖兎学園祭入学式",
+            "name": "入学式看板",
+            "creator": "kashinomi0384"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1002
+            },
+            "model": "corsage",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/nyuugakushiki2023/corsage.mng",
+            "comment": "令和５年度聖兎学園祭入学式",
+            "name": "入学式コサージュ",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "rubber_wristband",
+            "item": "rabbit_foot",
+            "image": "pack/assets/minecraft/models/item/ojousaba/rubber_wristband.mng",
+            "comment": "2022/12 ファンミーティングイベント参加特典",
+            "name": "光るリストバンド",
+            "creator": "kashinomi0384"
+        }
+    ]
+}

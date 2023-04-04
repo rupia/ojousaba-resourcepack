@@ -1,0 +1,54 @@
+{
+	"credit": "Made by alumina6767 with Blockbench",
+	"textures": {
+		"0": "item/ojousaba/yani",
+		"particle": "item/ojousaba/yani"
+	},
+	"elements": [
+		{
+			"from": [7.5, 4, 2.5],
+			"to": [8, 4.5, 6.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.75, 4.25, 4.5]},
+			"faces": {
+				"north": {"uv": [2, 2, 3, 3], "texture": "#0"},
+				"east": {"uv": [0, 0, 14, 1], "texture": "#0"},
+				"south": {"uv": [2, 3, 3, 4], "texture": "#0"},
+				"west": {"uv": [0, 1, 14, 2], "texture": "#0"},
+				"up": {"uv": [1, 16, 0, 2], "texture": "#0"},
+				"down": {"uv": [2, 2, 1, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.525, 4.025, 2.355],
+			"to": [7.975, 4.475, 2.805],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.725, 4.225, 2.725]},
+			"faces": {
+				"north": {"uv": [5, 4, 6, 5], "texture": "#0"},
+				"east": {"uv": [5, 4, 6, 5], "texture": "#0"},
+				"south": {"uv": [5, 4, 6, 5], "texture": "#0"},
+				"west": {"uv": [5, 4, 6, 5], "texture": "#0"},
+				"up": {"uv": [5, 4, 6, 5], "texture": "#0"},
+				"down": {"uv": [5, 4, 6, 5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [72, 0, 0],
+			"translation": [0, -0.25, 4.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [72, 0, 0],
+			"translation": [0, -0.25, 4.25]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [-10.75, 17.75, 0],
+			"scale": [4, 4, 4]
+		},
+		"head": {
+			"rotation": [-6, 14, 0],
+			"translation": [-0.5, -0.25, -5.25]
+		}
+	}
+}

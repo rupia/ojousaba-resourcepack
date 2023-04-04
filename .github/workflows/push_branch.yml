@@ -1,0 +1,27 @@
+name: Optimize Resource Pack
+permissions:
+  contents: write
+
+on:
+  push:
+    branches:
+      - '**'
+    paths:
+      - 'pack/**'
+
+jobs:
+  build:
+    name: Optimize Resource Pack
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Run PackSquash
+        uses: ComunidadAylas/PackSquash-action@v3
+        with:
+          path: pack
+          artifact_name: optimized_pack_${{ github.run_id }}
+          allow_optifine_mod: true
+          maximum_image_width_and_height: 8192
