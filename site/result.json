@@ -134,6 +134,17 @@
         },
         {
             "predicate": {
+                "custom_model_data": 4001
+            },
+            "model": "shoshinshamark",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/shoshinshamark.mng",
+            "comment": "新規ユーザー応援キャンペーン第２弾",
+            "name": "初心者マーク",
+            "creator": "yueni01"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 1
             },
             "model": "rubber_wristband",
