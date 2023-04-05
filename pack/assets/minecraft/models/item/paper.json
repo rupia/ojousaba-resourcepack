@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 4000}, "model": "item/ojousaba/coin_unique", "__name": "ユニークコイン","__comment": "表示のみ","__creator":"kashinomi0384"},
+    {"predicate": {"custom_model_data": 4001}, "model": "item/ojousaba/icon_install", "__name": "アプリインストール","__comment": "表示のみ","__creator":"kashinomi0384"}
+  ]
+}
