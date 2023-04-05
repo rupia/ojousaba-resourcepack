@@ -16,8 +16,8 @@
     {"predicate": {"custom_model_data": 2006}, "model": "item/ojousaba/yani", "__name": "ヤニ","__comment": "ヤニ","__creator":"genpyon"},
     {"predicate": {"custom_model_data": 2007}, "model": "item/ojousaba/sniper", "__name": "Sniper","__comment": "スナイパーライフル","__creator":"ManaitaLN"},
     {"predicate": {"custom_model_data": 2008}, "model": "item/ojousaba/black_box", "__name": "ブラックボックス","__comment": "","__creator":"genpyon"},
+    {"predicate": {"custom_model_data": 2009}, "model": "item/ojousaba/shoshinshamark", "__name": "初心者マーク","__comment": "新規ユーザー応援キャンペーン第２弾","__creator":"yueni01"},
 
-    {"predicate": {"custom_model_data": 4000}, "model": "item/ojousaba/nyuugakushiki2023/corsage", "__name": "入学式コサージュ","__comment": "令和５年度聖兎学園祭入学式","__creator":"alumina6767"},
-    {"predicate": {"custom_model_data": 4001}, "model": "item/ojousaba/shoshinshamark", "__name": "初心者マーク","__comment": "新規ユーザー応援キャンペーン第２弾","__creator":"yueni01"}
+    {"predicate": {"custom_model_data": 3000}, "model": "item/ojousaba/nyuugakushiki2023/corsage", "__name": "入学式コサージュ","__comment": "令和５年度聖兎学園祭入学式","__creator":"alumina6767"}
   ]
 }

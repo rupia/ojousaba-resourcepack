@@ -7,30 +7,36 @@ def models2dic(f, item):
     # 読み込み
     d = json.load(f)
 
+    # CMDが記載されているものだけに制限
+    overrides = [x for x in d['overrides'] if 'custom_model_data' in x['predicate']]
+
     # カスタムモデルデータに元がなんのモデルか書き込み
-    for i in range(len(d['overrides'])):
+    for o in overrides:
         # 適用先アイテム
-        d['overrides'][i]['item'] = item
+        o['item'] = item
 
         ## サムネイル
-        d['overrides'][i]['image'] = 'pack/assets/minecraft/models/'+ d['overrides'][i]['model'] + '.mng'
+        o['image'] = 'pack/assets/minecraft/models/'+ o['model'] + '.mng'
 
         # 参照先モデル
-        d['overrides'][i]['model'] = d['overrides'][i]['model'].split('/')[-1]
+        o['model'] = o['model'].split('/')[-1]
 
         # コメント
-        d['overrides'][i]['comment'] = d['overrides'][i]['__comment']
-        del d['overrides'][i]['__comment']
+        if '__comment' in o:
+            o['comment'] = o['__comment']
+            del o['__comment']
 
         # 名前
-        d['overrides'][i]['name'] = d['overrides'][i]['__name']
-        del d['overrides'][i]['__name']
+        if '__name' in o:
+            o['name'] = o['__name']
+            del o['__name']
 
         # 製作者
-        d['overrides'][i]['creator'] = d['overrides'][i]['__creator']
-        del d['overrides'][i]['__creator']
+        if '__creator' in o:
+            o['creator'] = o['__creator']
+            del o['__creator']
 
-    return d['overrides']
+    return overrides
 
 
 if __name__ == '__main__':
