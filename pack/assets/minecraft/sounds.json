@@ -62,7 +62,7 @@
   "school.chime.harf": {
     "sounds": [
       {
-        "name": "school/chime_harf",
+        "name": "school/chime_half",
         "volume": 0.5
       }
     ],
