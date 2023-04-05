@@ -156,6 +156,17 @@
         },
         {
             "predicate": {
+                "custom_model_data": 2010
+            },
+            "model": "bag_sc",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/nyuugakushiki2023/bag_sc.mng",
+            "comment": "令和５年度聖兎学園祭入学式特典",
+            "name": "ランドセル",
+            "creator": "kashinomi0384"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 3000
             },
             "model": "corsage",
@@ -164,6 +175,28 @@
             "comment": "令和５年度聖兎学園祭入学式",
             "name": "入学式コサージュ",
             "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4000
+            },
+            "model": "coin_unique",
+            "item": "paper",
+            "image": "pack/assets/minecraft/models/item/ojousaba/coin_unique.mng",
+            "comment": "表示のみ",
+            "name": "ユニークコイン",
+            "creator": "kashinomi0384"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4001
+            },
+            "model": "icon_install",
+            "item": "paper",
+            "image": "pack/assets/minecraft/models/item/ojousaba/icon_install.mng",
+            "comment": "表示のみ",
+            "name": "アプリインストール",
+            "creator": "kashinomi0384"
         },
         {
             "predicate": {
