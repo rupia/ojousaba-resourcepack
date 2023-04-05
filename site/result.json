@@ -153,6 +153,28 @@
             "comment": "2022/12 ファンミーティングイベント参加特典",
             "name": "光るリストバンド",
             "creator": "kashinomi0384"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2007
+            },
+            "model": "sniper_in_hand",
+            "item": "spyglass",
+            "image": "pack/assets/minecraft/models/item/ojousaba/sniper_in_hand.mng",
+            "comment": "スナイパーライフル",
+            "name": "Sniper",
+            "creator": "ManaitaLN"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2007
+            },
+            "model": "sniper_in_hand",
+            "item": "spyglass_in_hand",
+            "image": "pack/assets/minecraft/models/item/ojousaba/sniper_in_hand.mng",
+            "comment": "スナイパーライフル",
+            "name": "Sniper",
+            "creator": "ManaitaLN"
         }
     ]
 }
