@@ -59,6 +59,6 @@
             },
             "model": "item/crossbow_firework"
         },
-        {"predicate": {"custom_model_data": 2007},"model": "item/ojousaba/sniper"}
+        {"predicate": {"custom_model_data": 2007}, "model": "item/ojousaba/sniper", "__name": "Sniper","__comment": "スナイパーライフル","__creator":"ManaitaLN"}
     ]
 }

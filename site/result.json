@@ -2,6 +2,28 @@
     "textures": [
         {
             "predicate": {
+                "custom_model_data": 2007
+            },
+            "model": "sniper",
+            "item": "bow",
+            "image": "pack/assets/minecraft/models/item/ojousaba/sniper.mng",
+            "comment": "スナイパーライフル",
+            "name": "Sniper",
+            "creator": "ManaitaLN"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2007
+            },
+            "model": "sniper",
+            "item": "crossbow",
+            "image": "pack/assets/minecraft/models/item/ojousaba/sniper.mng",
+            "comment": "スナイパーライフル",
+            "name": "Sniper",
+            "creator": "ManaitaLN"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 1000
             },
             "model": "signboard_with_mamdad",
@@ -123,18 +145,7 @@
         },
         {
             "predicate": {
-                "custom_model_data": 4000
-            },
-            "model": "corsage",
-            "item": "flint",
-            "image": "pack/assets/minecraft/models/item/ojousaba/nyuugakushiki2023/corsage.mng",
-            "comment": "令和５年度聖兎学園祭入学式",
-            "name": "入学式コサージュ",
-            "creator": "alumina6767"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4001
+                "custom_model_data": 2009
             },
             "model": "shoshinshamark",
             "item": "flint",
@@ -142,6 +153,17 @@
             "comment": "新規ユーザー応援キャンペーン第２弾",
             "name": "初心者マーク",
             "creator": "yueni01"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3000
+            },
+            "model": "corsage",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/nyuugakushiki2023/corsage.mng",
+            "comment": "令和５年度聖兎学園祭入学式",
+            "name": "入学式コサージュ",
+            "creator": "alumina6767"
         },
         {
             "predicate": {
