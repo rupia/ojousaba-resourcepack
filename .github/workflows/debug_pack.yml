@@ -1,4 +1,4 @@
-name: Optimize Resource Pack
+name: Optimize Resource Pack for Debug
 permissions:
   contents: write
 
@@ -22,6 +22,6 @@ jobs:
         uses: ComunidadAylas/PackSquash-action@v3
         with:
           path: pack
-          artifact_name: optimized_pack_${{ github.run_id }}
+          artifact_name: Optimized pack
           allow_optifine_mod: true
           maximum_image_width_and_height: 8192
