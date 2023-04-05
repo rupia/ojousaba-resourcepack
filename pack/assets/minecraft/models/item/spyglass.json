@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/spyglass"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 2007}, "model": "item/ojousaba/sniper_in_hand", "__name": "Sniper","__comment": "スナイパーライフル","__creator":"ManaitaLN"}
+  ]
+}
