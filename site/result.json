@@ -156,6 +156,17 @@
         },
         {
             "predicate": {
+                "custom_model_data": 2019
+            },
+            "model": "gold",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/gold.mng",
+            "comment": "金",
+            "name": "スマートぴょん",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 3000
             },
             "model": "corsage",
@@ -164,6 +175,94 @@
             "comment": "令和５年度聖兎学園祭入学式",
             "name": "入学式コサージュ",
             "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2011
+            },
+            "model": "mt_100",
+            "item": "paper",
+            "image": "pack/assets/minecraft/models/item/ojousaba/money_tiket/mt_100.mng",
+            "comment": "100",
+            "name": "寿命チケット",
+            "creator": "kashinomi0384"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2012
+            },
+            "model": "mt_100tho_1",
+            "item": "paper",
+            "image": "pack/assets/minecraft/models/item/ojousaba/money_tiket/mt_100tho_1.mng",
+            "comment": "1,000",
+            "name": "寿命チケット",
+            "creator": "kashinomi0384"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2013
+            },
+            "model": "mt_100tho_2",
+            "item": "paper",
+            "image": "pack/assets/minecraft/models/item/ojousaba/money_tiket/mt_100tho_2.mng",
+            "comment": "10,000",
+            "name": "寿命チケット",
+            "creator": "kashinomi0384"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2014
+            },
+            "model": "mt_100tho_3",
+            "item": "paper",
+            "image": "pack/assets/minecraft/models/item/ojousaba/money_tiket/mt_100tho_3.mng",
+            "comment": "100,000",
+            "name": "寿命チケット",
+            "creator": "kashinomi0384"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2015
+            },
+            "model": "mt_100mil_1",
+            "item": "paper",
+            "image": "pack/assets/minecraft/models/item/ojousaba/money_tiket/mt_100mil_1.mng",
+            "comment": "1,000,000",
+            "name": "寿命チケット",
+            "creator": "kashinomi0384"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2016
+            },
+            "model": "mt_100mil_2",
+            "item": "paper",
+            "image": "pack/assets/minecraft/models/item/ojousaba/money_tiket/mt_100mil_2.mng",
+            "comment": "10,000,000",
+            "name": "寿命チケット",
+            "creator": "kashinomi0384"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2017
+            },
+            "model": "mt_100mil_3",
+            "item": "paper",
+            "image": "pack/assets/minecraft/models/item/ojousaba/money_tiket/mt_100mil_3.mng",
+            "comment": "100,000,000",
+            "name": "寿命チケット",
+            "creator": "kashinomi0384"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2018
+            },
+            "model": "mt_1bil",
+            "item": "paper",
+            "image": "pack/assets/minecraft/models/item/ojousaba/money_tiket/mt_1bil.mng",
+            "comment": "1,000,000,000",
+            "name": "寿命チケット",
+            "creator": "kashinomi0384"
         },
         {
             "predicate": {
