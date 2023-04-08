@@ -4,6 +4,15 @@
     "layer0": "minecraft:item/paper"
   },
   "overrides": [
+    {"predicate": {"custom_model_data": 2011}, "model": "item/ojousaba/money_tiket/mt_100", "__name": "寿命チケット","__comment": "100","__creator":"kashinomi0384"},
+    {"predicate": {"custom_model_data": 2012}, "model": "item/ojousaba/money_tiket/mt_100tho_1", "__name": "寿命チケット","__comment": "1,000","__creator":"kashinomi0384"},
+    {"predicate": {"custom_model_data": 2013}, "model": "item/ojousaba/money_tiket/mt_100tho_2", "__name": "寿命チケット","__comment": "10,000","__creator":"kashinomi0384"},
+    {"predicate": {"custom_model_data": 2014}, "model": "item/ojousaba/money_tiket/mt_100tho_3", "__name": "寿命チケット","__comment": "100,000","__creator":"kashinomi0384"},
+    {"predicate": {"custom_model_data": 2015}, "model": "item/ojousaba/money_tiket/mt_100mil_1", "__name": "寿命チケット","__comment": "1,000,000","__creator":"kashinomi0384"},
+    {"predicate": {"custom_model_data": 2016}, "model": "item/ojousaba/money_tiket/mt_100mil_2", "__name": "寿命チケット","__comment": "10,000,000","__creator":"kashinomi0384"},
+    {"predicate": {"custom_model_data": 2017}, "model": "item/ojousaba/money_tiket/mt_100mil_3", "__name": "寿命チケット","__comment": "100,000,000","__creator":"kashinomi0384"},
+    {"predicate": {"custom_model_data": 2018}, "model": "item/ojousaba/money_tiket/mt_1bil", "__name": "寿命チケット","__comment": "1,000,000,000","__creator":"kashinomi0384"},
+
     {"predicate": {"custom_model_data": 4000}, "model": "item/ojousaba/coin_unique", "__name": "ユニークコイン","__comment": "表示のみ","__creator":"kashinomi0384"},
     {"predicate": {"custom_model_data": 4001}, "model": "item/ojousaba/icon_install", "__name": "アプリインストール","__comment": "表示のみ","__creator":"kashinomi0384"}
   ]
