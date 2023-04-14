@@ -24,6 +24,17 @@
         },
         {
             "predicate": {
+                "custom_model_data": 2010
+            },
+            "model": "bag_sc",
+            "item": "feather",
+            "image": "pack/assets/minecraft/models/item/ojousaba/nyuugakushiki2023/bag_sc.mng",
+            "comment": "令和５年度聖兎学園祭入学式特典",
+            "name": "ランドセル",
+            "creator": "kashinomi0384"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 1000
             },
             "model": "signboard_with_mamdad",
@@ -145,17 +156,6 @@
         },
         {
             "predicate": {
-                "custom_model_data": 2010
-            },
-            "model": "bag_sc",
-            "item": "flint",
-            "image": "pack/assets/minecraft/models/item/ojousaba/nyuugakushiki2023/bag_sc.mng",
-            "comment": "令和５年度聖兎学園祭入学式特典",
-            "name": "ランドセル",
-            "creator": "kashinomi0384"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 2019
             },
             "model": "gold",
@@ -174,6 +174,105 @@
             "image": "pack/assets/minecraft/models/item/ojousaba/nyuugakushiki2023/corsage.mng",
             "comment": "令和５年度聖兎学園祭入学式",
             "name": "入学式コサージュ",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5000
+            },
+            "model": "ajigamoto",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/nyuugakushiki2023/panel/ajigamoto.mng",
+            "comment": "ギルド紹介用パネル",
+            "name": "味が素",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5001
+            },
+            "model": "gozen",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/nyuugakushiki2023/panel/gozen.mng",
+            "comment": "ギルド紹介用パネル",
+            "name": "焼きそば御膳",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5002
+            },
+            "model": "hapy_cury",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/nyuugakushiki2023/panel/hapy_cury.mng",
+            "comment": "ギルド紹介用パネル",
+            "name": "HapyCury",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5003
+            },
+            "model": "kankyou_top",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/nyuugakushiki2023/panel/kankyou_top.mng",
+            "comment": "ギルド紹介用パネル",
+            "name": "環境トップ",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5004
+            },
+            "model": "king",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/nyuugakushiki2023/panel/king.mng",
+            "comment": "ギルド紹介用パネル",
+            "name": "KING",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5005
+            },
+            "model": "sweets_paradise",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/nyuugakushiki2023/panel/sweets_paradise.mng",
+            "comment": "ギルド紹介用パネル",
+            "name": "スイパラお嬢様",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5006
+            },
+            "model": "urenokori",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/nyuugakushiki2023/panel/urenokori.mng",
+            "comment": "ギルド紹介用パネル",
+            "name": "売れ残り",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5007
+            },
+            "model": "white",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/nyuugakushiki2023/panel/white.mng",
+            "comment": "ギルド紹介用パネル",
+            "name": "White",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5008
+            },
+            "model": "yuuhuku",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/nyuugakushiki2023/panel/yuuhuku.mng",
+            "comment": "ギルド紹介用パネル",
+            "name": "裕福な家庭",
             "creator": "alumina6767"
         },
         {
