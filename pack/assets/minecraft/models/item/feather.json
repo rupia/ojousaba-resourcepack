@@ -1,0 +1,16 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/feather"
+    },
+    "display": {
+        "head": {
+            "rotation": [ 0, 0, 45 ],
+            "translation": [ -1, 13, 7],
+            "scale":[ 1, 1, 1]
+        }
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 2010}, "model": "item/ojousaba/nyuugakushiki2023/bag_sc", "__name": "ランドセル","__comment": "令和５年度聖兎学園祭入学式特典","__creator":"kashinomi0384"}
+    ]
+}
