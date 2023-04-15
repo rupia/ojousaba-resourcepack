@@ -1,8 +1,0 @@
-{
-    "parent": "item/ojousaba/nyuugakushiki2023/panel/base",
-    "textures": {
-		"particle": "item/ojousaba/nyuugakushiki2023/panel/kankyou_top",
-		"0": "item/ojousaba/nyuugakushiki2023/panel/kankyou_top",
-		"1": "item/ojousaba/nyuugakushiki2023/panel/base"
-	}
-}

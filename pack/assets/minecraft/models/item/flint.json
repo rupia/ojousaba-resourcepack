@@ -18,16 +18,6 @@
     {"predicate": {"custom_model_data": 2008}, "model": "item/ojousaba/black_box", "__name": "ブラックボックス","__comment": "","__creator":"genpyon"},
     {"predicate": {"custom_model_data": 2019}, "model": "item/ojousaba/smartpyone/gold", "__name": "スマートぴょん","__comment": "金","__creator":"alumina6767"},
 
-    {"predicate": {"custom_model_data": 3000}, "model": "item/ojousaba/nyuugakushiki2023/corsage", "__name": "入学式コサージュ","__comment": "令和５年度聖兎学園祭入学式","__creator":"alumina6767"},
-
-    {"predicate": {"custom_model_data": 5000}, "model": "item/ojousaba/nyuugakushiki2023/panel/ajigamoto", "__name": "味が素","__comment": "ギルド紹介用パネル","__creator":"alumina6767"},
-    {"predicate": {"custom_model_data": 5001}, "model": "item/ojousaba/nyuugakushiki2023/panel/gozen", "__name": "焼きそば御膳","__comment": "ギルド紹介用パネル","__creator":"alumina6767"},
-    {"predicate": {"custom_model_data": 5002}, "model": "item/ojousaba/nyuugakushiki2023/panel/hapy_cury", "__name": "HapyCury","__comment": "ギルド紹介用パネル","__creator":"alumina6767"},
-    {"predicate": {"custom_model_data": 5003}, "model": "item/ojousaba/nyuugakushiki2023/panel/kankyou_top", "__name": "環境トップ","__comment": "ギルド紹介用パネル","__creator":"alumina6767"},
-    {"predicate": {"custom_model_data": 5004}, "model": "item/ojousaba/nyuugakushiki2023/panel/king", "__name": "KING","__comment": "ギルド紹介用パネル","__creator":"alumina6767"},
-    {"predicate": {"custom_model_data": 5005}, "model": "item/ojousaba/nyuugakushiki2023/panel/sweets_paradise", "__name": "スイパラお嬢様","__comment": "ギルド紹介用パネル","__creator":"alumina6767"},
-    {"predicate": {"custom_model_data": 5006}, "model": "item/ojousaba/nyuugakushiki2023/panel/urenokori", "__name": "売れ残り","__comment": "ギルド紹介用パネル","__creator":"alumina6767"},
-    {"predicate": {"custom_model_data": 5007}, "model": "item/ojousaba/nyuugakushiki2023/panel/white", "__name": "White","__comment": "ギルド紹介用パネル","__creator":"alumina6767"},
-    {"predicate": {"custom_model_data": 5008}, "model": "item/ojousaba/nyuugakushiki2023/panel/yuuhuku", "__name": "裕福な家庭","__comment": "ギルド紹介用パネル","__creator":"alumina6767"}
+    {"predicate": {"custom_model_data": 3000}, "model": "item/ojousaba/nyuugakushiki2023/corsage", "__name": "入学式コサージュ","__comment": "令和５年度聖兎学園祭入学式","__creator":"alumina6767"}
   ]
 }
