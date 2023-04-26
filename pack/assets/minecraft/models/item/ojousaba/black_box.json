@@ -1,26 +1,26 @@
 {
-	"credit": "Made by genpyon with Blockbench",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "item/ojousaba/black_box",
 		"particle": "item/ojousaba/black_box"
 	},
 	"elements": [
 		{
-			"from": [5, 0, 5],
-			"to": [12, 4.5, 12],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 2.25, 8.5]},
+			"from": [4.5, 0, 5],
+			"to": [11.5, 4.5, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2.25, 8.5]},
 			"faces": {
-				"north": {"uv": [0, 7, 7, 11.5], "texture": "#2"},
-				"east": {"uv": [0, 7, 7, 11.5], "texture": "#2"},
-				"south": {"uv": [0, 7, 7, 11.5], "texture": "#2"},
-				"west": {"uv": [0, 7, 7, 11.5], "texture": "#2"},
-				"down": {"uv": [7, 0, 0, 7], "texture": "#2"}
+				"north": {"uv": [7, 2, 14, 6.5], "texture": "#2"},
+				"east": {"uv": [7, 2, 14, 6.5], "texture": "#2"},
+				"south": {"uv": [7, 2, 14, 6.5], "texture": "#2"},
+				"west": {"uv": [7, 2, 14, 6.5], "texture": "#2"},
+				"down": {"uv": [7, 7, 0, 14], "texture": "#2"}
 			}
 		},
 		{
-			"from": [5, 4.5, 5],
-			"to": [12, 6.5, 12],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 5, 6.625]},
+			"from": [4.5, 4.5, 5],
+			"to": [11.5, 6.5, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 6.625]},
 			"faces": {
 				"north": {"uv": [7, 0, 14, 2], "texture": "#2"},
 				"east": {"uv": [7, 0, 14, 2], "texture": "#2"},
@@ -30,9 +30,9 @@
 			}
 		},
 		{
-			"from": [8, 3.5, 4.5],
-			"to": [9, 5.5, 5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 5, 6.625]},
+			"from": [7.5, 3.5, 4.5],
+			"to": [8.5, 5.5, 5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 6.625]},
 			"faces": {
 				"north": {"uv": [7, 8, 8, 10], "texture": "#2"},
 				"east": {"uv": [8, 8, 9, 10], "texture": "#2"},
@@ -45,12 +45,12 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [27, 0, 0],
-			"translation": [-0.25, 2.25, -0.25],
+			"translation": [0, 2.25, -0.25],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [27, 0, 0],
-			"translation": [-0.25, 2.25, -0.25],
+			"translation": [0, 2.25, -0.25],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"firstperson_righthand": {
