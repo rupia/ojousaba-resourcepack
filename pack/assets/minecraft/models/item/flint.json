@@ -16,7 +16,15 @@
     {"predicate": {"custom_model_data": 2006}, "model": "item/ojousaba/yani", "__name": "ヤニ","__comment": "ヤニ","__creator":"genpyon"},
     {"predicate": {"custom_model_data": 2007}, "model": "item/ojousaba/sniper", "__name": "Sniper","__comment": "スナイパーライフル","__creator":"ManaitaLN"},
     {"predicate": {"custom_model_data": 2008}, "model": "item/ojousaba/black_box", "__name": "ブラックボックス","__comment": "","__creator":"genpyon"},
+
     {"predicate": {"custom_model_data": 2019}, "model": "item/ojousaba/smartpyone/gold", "__name": "スマートぴょん","__comment": "金","__creator":"alumina6767"},
+    {"predicate": {"custom_model_data": 2020}, "model": "item/ojousaba/smartpyone/rader", "__name": "スマートぴょん","__comment": "らっだぁモデル","__creator":"alumina6767"},
+    {"predicate": {"custom_model_data": 2021}, "model": "item/ojousaba/smartpyone/gutitubo", "__name": "スマートぴょん","__comment": "ぐちつぼモデル","__creator":"alumina6767"},
+    {"predicate": {"custom_model_data": 2022}, "model": "item/ojousaba/smartpyone/tarako", "__name": "スマートぴょん","__comment": "たらこモデル","__creator":"alumina6767"},
+    {"predicate": {"custom_model_data": 2023}, "model": "item/ojousaba/smartpyone/nnsome", "__name": "スマートぴょん","__comment": "んそめモデル","__creator":"alumina6767"},
+    {"predicate": {"custom_model_data": 2024}, "model": "item/ojousaba/smartpyone/gonnkane", "__name": "スマートぴょん","__comment": "ごんかねモデル","__creator":"alumina6767"},
+    {"predicate": {"custom_model_data": 2025}, "model": "item/ojousaba/smartpyone/yakipan", "__name": "スマートぴょん","__comment": "やきぱんモデル","__creator":"alumina6767"},
+    {"predicate": {"custom_model_data": 2026}, "model": "item/ojousaba/smartpyone/genpyon5", "__name": "スマートぴょん","__comment": "ぴょんえもふりむきモデル","__creator":"alumina6767"},
 
     {"predicate": {"custom_model_data": 3000}, "model": "item/ojousaba/nyuugakushiki2023/corsage", "__name": "入学式コサージュ","__comment": "令和５年度聖兎学園祭入学式","__creator":"alumina6767"}
   ]
