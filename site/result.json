@@ -167,6 +167,83 @@
         },
         {
             "predicate": {
+                "custom_model_data": 2020
+            },
+            "model": "rader",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/rader.mng",
+            "comment": "らっだぁモデル",
+            "name": "スマートぴょん",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2021
+            },
+            "model": "gutitubo",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/gutitubo.mng",
+            "comment": "ぐちつぼモデル",
+            "name": "スマートぴょん",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2022
+            },
+            "model": "tarako",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/tarako.mng",
+            "comment": "たらこモデル",
+            "name": "スマートぴょん",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2023
+            },
+            "model": "nnsome",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/nnsome.mng",
+            "comment": "んそめモデル",
+            "name": "スマートぴょん",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2024
+            },
+            "model": "gonnkane",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/gonnkane.mng",
+            "comment": "ごんかねモデル",
+            "name": "スマートぴょん",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2025
+            },
+            "model": "yakipan",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/yakipan.mng",
+            "comment": "やきぱんモデル",
+            "name": "スマートぴょん",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2026
+            },
+            "model": "genpyon5",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/genpyon5.mng",
+            "comment": "ぴょんえもふりむきモデル",
+            "name": "スマートぴょん",
+            "creator": "alumina6767"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 3000
             },
             "model": "corsage",
@@ -284,6 +361,105 @@
             "image": "pack/assets/minecraft/models/item/ojousaba/icon_install.mng",
             "comment": "表示のみ",
             "name": "アプリインストール",
+            "creator": "kashinomi0384"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4002
+            },
+            "model": "cc_100",
+            "item": "paper",
+            "image": "pack/assets/minecraft/models/item/ojousaba/cc/cc_100.mng",
+            "comment": "100",
+            "name": "カジノコイン",
+            "creator": "kashinomi0384"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4003
+            },
+            "model": "cc_1tho",
+            "item": "paper",
+            "image": "pack/assets/minecraft/models/item/ojousaba/cc/cc_1tho.mng",
+            "comment": "1,000",
+            "name": "カジノコイン",
+            "creator": "kashinomi0384"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4004
+            },
+            "model": "cc_10tho",
+            "item": "paper",
+            "image": "pack/assets/minecraft/models/item/ojousaba/cc/cc_10tho.mng",
+            "comment": "10,000",
+            "name": "カジノコイン",
+            "creator": "kashinomi0384"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4005
+            },
+            "model": "cc_100tho",
+            "item": "paper",
+            "image": "pack/assets/minecraft/models/item/ojousaba/cc/cc_100tho.mng",
+            "comment": "100,000",
+            "name": "カジノコイン",
+            "creator": "kashinomi0384"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4006
+            },
+            "model": "cc_1mil",
+            "item": "paper",
+            "image": "pack/assets/minecraft/models/item/ojousaba/cc/cc_1mil.mng",
+            "comment": "1,000,000",
+            "name": "カジノコイン",
+            "creator": "kashinomi0384"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4007
+            },
+            "model": "cc_10mil",
+            "item": "paper",
+            "image": "pack/assets/minecraft/models/item/ojousaba/cc/cc_10mil.mng",
+            "comment": "10,000,000",
+            "name": "カジノコイン",
+            "creator": "kashinomi0384"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4008
+            },
+            "model": "cc_100mil",
+            "item": "paper",
+            "image": "pack/assets/minecraft/models/item/ojousaba/cc/cc_100mil.mng",
+            "comment": "100,000,000",
+            "name": "カジノコイン",
+            "creator": "kashinomi0384"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4009
+            },
+            "model": "cc_1bil",
+            "item": "paper",
+            "image": "pack/assets/minecraft/models/item/ojousaba/cc/cc_1bil.mng",
+            "comment": "1,000,000,000",
+            "name": "カジノコイン",
+            "creator": "kashinomi0384"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4010
+            },
+            "model": "cc_10bil",
+            "item": "paper",
+            "image": "pack/assets/minecraft/models/item/ojousaba/cc/cc_10bil.mng",
+            "comment": "10,000,000,000",
+            "name": "カジノコイン",
             "creator": "kashinomi0384"
         },
         {
