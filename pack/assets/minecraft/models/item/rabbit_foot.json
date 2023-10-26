@@ -7,6 +7,6 @@
     {"predicate": {"custom_model_data": 1}, "model": "item/ojousaba/rubber_wristband", "__name": "光るリストバンド","__comment": "2022/12 ファンミーティングイベント参加特典","__creator":"kashinomi0384"},
 
     {"predicate": {"custom_model_data": 2009}, "model": "item/ojousaba/shoshinshamark", "__name": "初心者マーク","__comment": "新規ユーザー応援キャンペーン第２弾","__creator":"yueni01"},
-    {"predicate": {"custom_model_data": 2028}, "model": "item/ojousaba/gakusai2023/pikapika_hat", "__name": "ぴかぴかの1年生帽子","__comment": "令和５年度聖兎学園夏季入学式特典","__creator":"kashinomi0384"}
+    {"predicate": {"custom_model_data": 2028}, "model": "item/ojousaba/nyuugakushiki2023_2/pikapika_hat", "__name": "ぴかぴかの1年生帽子","__comment": "令和５年度聖兎学園夏季入学式特典","__creator":"kashinomi0384"}
   ]
 }
