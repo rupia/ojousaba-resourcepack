@@ -2,8 +2,8 @@
 	"credit": "Made by alumina6767 with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/ojousaba/gakusai2023/pikapika_hat",
-		"particle": "item/ojousaba/gakusai2023/pikapika_hat"
+		"0": "item/ojousaba/nyuugakushiki2023_2/pikapika_hat",
+		"particle": "item/ojousaba/nyuugakushiki2023_2/pikapika_hat"
 	},
 	"elements": [
 		{
@@ -120,9 +120,9 @@
 	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [0, 39, 0],
-			"translation": [0, 3.75, -2.25],
-			"scale": [0.4, 0.4, 0.4]
+			"rotation": [100.5, 0, 0],
+			"translation": [-6, -1.5, 21],
+			"scale": [0.61, 0.61, 0.61]
 		},
 		"thirdperson_lefthand": {
 			"translation": [0, 4.25, -2.25],
