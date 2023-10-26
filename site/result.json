@@ -244,6 +244,17 @@
         },
         {
             "predicate": {
+                "custom_model_data": 2027
+            },
+            "model": "gakusai2023",
+            "item": "flint",
+            "image": "pack/assets/minecraft/models/item/ojousaba/smartpyone/gakusai2023/gakusai2023.mng",
+            "comment": "聖兎学園祭2023モデル",
+            "name": "スマートぴょん",
+            "creator": "yueni01"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 3000
             },
             "model": "corsage",
@@ -483,6 +494,17 @@
             "comment": "新規ユーザー応援キャンペーン第２弾",
             "name": "初心者マーク",
             "creator": "yueni01"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2028
+            },
+            "model": "pikapika_hat",
+            "item": "rabbit_foot",
+            "image": "pack/assets/minecraft/models/item/ojousaba/nyuugakushiki2023_2/pikapika_hat.mng",
+            "comment": "令和５年度聖兎学園夏季入学式特典",
+            "name": "ぴかぴかの1年生帽子",
+            "creator": "kashinomi0384"
         },
         {
             "predicate": {

@@ -25,7 +25,9 @@
     {"predicate": {"custom_model_data": 2024}, "model": "item/ojousaba/smartpyone/gonnkane", "__name": "スマートぴょん","__comment": "ごんかねモデル","__creator":"alumina6767"},
     {"predicate": {"custom_model_data": 2025}, "model": "item/ojousaba/smartpyone/yakipan", "__name": "スマートぴょん","__comment": "やきぱんモデル","__creator":"alumina6767"},
     {"predicate": {"custom_model_data": 2026}, "model": "item/ojousaba/smartpyone/genpyon5", "__name": "スマートぴょん","__comment": "ぴょんえもふりむきモデル","__creator":"alumina6767"},
+    {"predicate": {"custom_model_data": 2027}, "model": "item/ojousaba/smartpyone/gakusai2023/gakusai2023", "__name": "スマートぴょん","__comment": "聖兎学園祭2023モデル","__creator":"yueni01"},
 
+    
     {"predicate": {"custom_model_data": 3000}, "model": "item/ojousaba/nyuugakushiki2023/corsage", "__name": "入学式コサージュ","__comment": "令和５年度聖兎学園祭入学式","__creator":"alumina6767"}
   ]
 }
